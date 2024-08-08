@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/plate_validator_DaveWalker777/__init__.py
+src/plate_validator_DaveWalker777/validator.py
+src/plate_validator_DaveWalker777.egg-info/PKG-INFO
+src/plate_validator_DaveWalker777.egg-info/SOURCES.txt
+src/plate_validator_DaveWalker777.egg-info/dependency_links.txt
+src/plate_validator_DaveWalker777.egg-info/top_level.txt

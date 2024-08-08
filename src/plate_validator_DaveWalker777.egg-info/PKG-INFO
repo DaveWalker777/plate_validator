@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: plate_validator_DaveWalker777
+Version: 0.0.1
+Summary: Russian license plate validator
+Author-email: Dave Walker <davewalker777@yandex.ru>
+Project-URL: Homepage, https://github.com/pypa/plate_validator
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
